@@ -1,0 +1,8 @@
+name = input("Введите ваше имя! ")
+surname = input("Введите вашу фамилию! ")
+date_of_birth = input("Введите дату рождения! ")
+username = input("Введите имя пользователя! ")
+password = input("Введите пароль! ")
+print(name, surname)
+print(date_of_birth)
+print(username, password)

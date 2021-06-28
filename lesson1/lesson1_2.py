@@ -1,0 +1,6 @@
+name = input()
+surname = input()
+print("My name is")
+print(name)
+print(surname)
+print(input())
