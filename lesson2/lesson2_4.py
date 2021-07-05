@@ -5,3 +5,5 @@ name = input()
 print(name.title().upper().lower())
 print(age)
 print(currency)
+
+print(type(str("2.0")))
